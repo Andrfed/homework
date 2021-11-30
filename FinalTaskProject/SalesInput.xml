@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<saleslist>
+    <sales salesID="1" sellerID="1" productID="2" numberOfProduct="500" salesDate="21:10:2020"> </sales>
+    <sales salesID="2" sellerID="2" productID="1" numberOfProduct="505" salesDate="17:02:2020"> </sales>
+    <sales salesID="3" sellerID="3" productID="4" numberOfProduct="1000" salesDate="15:11:2019"> </sales>
+    <sales salesID="4" sellerID="4" productID="5" numberOfProduct="10" salesDate="30:12:2020"> </sales>
+    <sales salesID="5" sellerID="5" productID="4" numberOfProduct="100" salesDate="10:11:2019"> </sales>
+    <sales salesID="6" sellerID="5" productID="3" numberOfProduct="130" salesDate="10:11:2019"> </sales>
+</saleslist>

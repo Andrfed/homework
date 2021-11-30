@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<productsellerlist>
+    <productseller sellerID="1" productID="2" productCost="1000" productNumber="1000"> </productseller>
+    <productseller sellerID="2" productID="1" productCost="1500" productNumber="1000"> </productseller>
+    <productseller sellerID="3" productID="3" productCost="100" productNumber="100"> </productseller>
+    <productseller sellerID="3" productID="4" productCost="10" productNumber="10000"> </productseller>
+    <productseller sellerID="4" productID="5" productCost="450" productNumber="50"> </productseller>
+    <productseller sellerID="5" productID="1" productCost="1000" productNumber="10000"> </productseller>
+    <productseller sellerID="5" productID="2" productCost="1500" productNumber="10000"> </productseller>
+    <productseller sellerID="5" productID="3" productCost="100" productNumber="150"> </productseller>
+    <productseller sellerID="5" productID="4" productCost="11" productNumber="10000"> </productseller>
+    <productseller sellerID="5" productID="5" productCost="250" productNumber="150"> </productseller>
+</productsellerlist>

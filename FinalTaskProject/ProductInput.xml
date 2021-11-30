@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productlist>
+    <product productID="1" productName="wood"> </product>
+    <product productID="2" productName="stone"> </product>
+    <product productID="3" productName="milk"> </product>
+    <product productID="4" productName="paper"> </product>
+    <product productID="5" productName="cup"> </product>
+</productlist>
