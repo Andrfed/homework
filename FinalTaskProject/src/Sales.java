@@ -93,4 +93,5 @@ public class Sales {
     public void setSalesID(int salesID) {
         this.salesID = salesID;
     }
+
 }
